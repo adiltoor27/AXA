@@ -104,7 +104,7 @@ YP      YP   YP Y888888P `8888Y' YP   YP Y88888P
                                                  
 {50*"-"}
     Tool Version :     1.3
-    Thanks Alot  :     M.Faisal Khan
+    Thanks Alot  :     Muhammad Aqil Tariq
 {50*"-"}'''
 
 #--(Dark@Colours)---#
